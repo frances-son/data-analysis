@@ -1,2 +1,2 @@
 책 <데이터 드리븐 리포트(이상석 저, 한빛미디어 출판)>을 공부하면서 정리한 실습코드입니다.
-언어는 python, IDE는 google colab 사용하였습니다.
+<br>언어는 python, IDE는 google colab 사용하였습니다.
